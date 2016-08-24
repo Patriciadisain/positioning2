@@ -1,0 +1,14 @@
+h1{
+	font-weight: bold;
+	font-style: 50px;
+	color: #7DF471;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+a{
+	font-family: Arial;
+	margin-left: 50%;
+	text-decoration: none;
+	color: #479A2E
+}
